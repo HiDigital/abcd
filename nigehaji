@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHK総合・東京" tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="東京地上波",NHK総合・東京
+http://193.42.99.130:23455/NHKHD/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHKEテレ東京" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2b69210c4a3afaa51a0108af359383df.png" group-title="東京地上波",NHKEテレ東京
+http://193.42.99.130:23455/NHKE/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ウェザーニュース" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png" group-title="東京地上波",ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="日テレ" tvg-logo="https://i.imgur.com/fxYf9G0.png" group-title="東京地上波",日テレ
+http://193.42.99.130:23455/3810/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="テレビ朝日" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2299677752ed7d486c2538c3e7d6e6d7.png" group-title="東京地上波",テレビ朝日
+http://193.42.99.130:23455/zhaori/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="TBS" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/aca89f64c5b07608f33f4a1aa78e487e.png" group-title="東京地上波",TBS
+http://193.42.99.130:23455/TBS/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="TV Tokyo JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/815ae2a83110ea1341cf8691ad462ad6.png" group-title="東京地上波",テレビ東京
+http://193.42.99.130:23455/TVTOKYO/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="フジテレビ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b105b34252fc5a532d36494ed88deb.png" group-title="東京地上波",フジテレビ
+http://193.42.99.130:23455/3770/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="TOKYO MX 1" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fd2de06eae2c92b4549324c2f4a439f9.jpg" group-title="東京地上波",TOKYO MX 1
+http://193.42.99.130:23455/TOKYOMX/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="TOKYO MX 2" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fd2de06eae2c92b4549324c2f4a439f9.jpg" group-title="東京地上波",TOKYO MX 2
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHK総合・大阪" tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="大阪地上波",NHK総合・大阪
+https://cdn.kr130.jpnettv.live/live/kansi_nhk_g_720/playlist.m3u8?
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHKEテレ大阪" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2b69210c4a3afaa51a0108af359383df.png" group-title="大阪地上波",NHKEテレ大阪
+http://193.42.99.130:23455/NHKE/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="SUNテレビ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/983f52f41abb4d9d6e2a5d41dfbac33a.png" group-title="大阪地上波",SUNテレビ
+http://193.42.99.130:23455/2630/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="MBS毎日放送" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/cc43effc2eaab5202a3b6bc7c195051e.png" group-title="大阪地上波",毎日放送
+http://193.42.99.130:23455/MBS/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="大阪地上波",NHK WORLD JAPAN
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ABCテレビ" tvg-logo="data:image/png;base64,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" group-title="大阪地上波",朝日放送
+http://193.42.99.130:23455/ABC/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="テレビ大阪" tvg-logo="https://www.asahi.co.jp/img/gtop/facebook_ogp.png" group-title="大阪地上波",テレビ大阪
+http://193.42.99.130:23455/2590/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="関西テレビ" tvg-logo="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-1/cp0/p80x80/55857557_1309661485866156_6676581023033065472_n.jpg?_nc_cat=108&ccb=2&_nc_sid=dbb9e7&_nc_ohc=57Y8sDUNbgEAX8QJwTz&_nc_ht=scontent-ssn1-1.xx&tp=27&oh=cd269e19e2ecf28b0f9e93ef2c867817&oe=5FBF75F8" group-title="大阪地上波",関西テレビ
+http://193.42.99.130:23455/2610/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="読売テレビ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/a5b83ba6287c3b6e43816565123d536f.png" group-title="大阪地上波",読売テレビ
+http://193.42.99.130:23455/2600/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="群馬テレビ" tvg-logo="https://th.bing.com/th/id/OIP.MMf_pQi6sLmNJS6L9AE_TgHaBE?pid=Api&rs=1" group-title="大阪地上波",群馬テレビ
+https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHK BS 4K" tvg-logo="https://th.bing.com/th/id/OIP.sX3lwCiDMWC6lhbQXvTnoQAAAA?w=178&h=116&c=7&o=5&dpr=1.25&pid=1.7" group-title="BS地上波",NHK BS 4K
+http://193.42.99.130:23455/NHKBS1/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="BS11イレブン" tvg-logo="https://hikariblog.com/wp-content/uploads/2019/06/bs11.png" group-title="BS放送",BS11イレブン
+http://193.42.99.130:23455/4110/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="BS12トゥエルビ" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBylRbX35jsFbkxCyms1_RAnxChEDIugJMdlg=s900-mo-c-c0xffffffff-rj-k-no" group-title="BS放送",BS12トゥエルビ
+http://193.42.99.130:23455/4070/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="WOWOWプライム" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/8c2c34a19d37b5f95b3c5216f878fe93.png" group-title="BS放送",WOWOWプライム
+http://193.42.99.130:23455/3680/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="WOWOWライブ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/1340c64cba09fb430d65e9adf20ea965.png" group-title="BS放送",WOWOWライブ
+http://193.42.99.130:23455/3690/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="WOWOWシネマ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/87a1f3c18f1a5dee6e5906cd7b08329a.png" group-title="BS放送",WOWOWシネマ
+http://193.42.99.130:23455/3700/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="グリーンチャンネル" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/6c78c725439381b05d2e155878bef140.png" group-title="BS放送",グリーンチャンネル
+http://193.42.99.130:23455/4310/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 1" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/94f83d030cf53ca4fadf179e7e559d66.png" group-title="BS放送",J SPORTS 1
+http://193.42.99.130:23455/3640/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 2" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/f3235c28a0ce4bb5518ebfbdf124b9b4.png" group-title="BS放送",J SPORTS 2
+http://193.42.99.130:23455/3650/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 3 tvg-logo="https://cdn.mydhtv.com/channels/thumbs/45c18829d0b766a0a369ad354eb95f4a.png" group-title="BS放送",J SPORTS 3
+http://193.42.99.130:23455/3660/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 4" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/e874f6c8faf990805858a9bdd8adc6f2.png" group-title="BS放送",J SPORTS 4
+http://193.42.99.130:23455/3670/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="GOLF NETWORK" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b83525f2a34fcca2337f147719d5c3.png" group-title="CS放送",GOLF NETWORK
+http://193.42.99.130:23455/4320/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ホームドラマチャンネル" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/effee832ab4494e85842e8ead694ab3b.png" group-title="CS放送",ホームドラマチャンネル
+http://193.42.99.130:23455/7210/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="日テレニュース24" tvg-logo="https://th.bing.com/th/id/OIP.ZRxy2K80bPDthynrjZUXLgAAAA?w=156&h=180&c=7&o=5&dpr=1.25&pid=1.7" group-title="CS放送",日テレニュース24
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="スポーツライブ" tvg-logo="https://av.watch.impress.co.jp/img/avw/docs/1231/845/01_s.jpg" group-title="CS放送",スポーツライブ
+http://193.42.99.130:23455/7160/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="bsアニマックス" tvg-logo="https://av.watch.impress.co.jp/img/avw/docs/1231/845/01_s.jpg" group-title="CS放送",スポーツライブ
+http://193.42.99.130:23455/3720/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="映画専門チャンネル" tvg-logo="https://av.watch.impress.co.jp/img/avw/docs/1231/845/01_s.jpg" group-title="CS放送",スポーツライブ
+http://193.42.99.130:23455/3730/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="スカイa" tvg-logo="https://av.watch.impress.co.jp/img/avw/docs/1231/845/01_s.jpg" group-title="CS放送",スポーツライブ
+http://193.42.99.130:23455/4990/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ANIPLUS AISA" tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="CS放送",ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
