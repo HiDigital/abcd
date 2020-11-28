@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHK総合" tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="jtv", NHKG
+mms://27.114.19.92/ocr01
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="日テレ" tvg-logo="https://i.imgur.com/fxYf9G0.png" group-title="jtv",日テレ
+mms://27.114.19.92/ocr04
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="テレビ朝日" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2299677752ed7d486c2538c3e7d6e6d7.png" group-title="jtv",テレビ朝日
+mms://27.114.19.92/ocr05
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="TBS" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/aca89f64c5b07608f33f4a1aa78e487e.png" group-title="jtv",TBS
+mms://27.114.19.92/ocr06
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="テレビ東京" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/815ae2a83110ea1341cf8691ad462ad6.png" group-title="jtv",テレビ東京
+mms://27.114.19.92/ocr07
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="フジテレビ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b105b34252fc5a532d36494ed88deb.png" group-title="jtvjtv",フジテレビ
+mms://27.114.19.92/ocr08
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="TOKYO MX" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fd2de06eae2c92b4549324c2f4a439f9.jpg" group-title="jtv",TOKYO MX 1
+mms://27.114.19.92/ocr09
