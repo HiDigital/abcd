@@ -33,6 +33,10 @@ http://redlabmcdn.s.llnwi.net/jp01/bs07/index.m3u8
 http://redlabmcdn.s.llnwi.net/jp01/bs08/index.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="WOWOWシネマ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/87a1f3c18f1a5dee6e5906cd7b08329a.png" group-title="放送",WOWOWシネマ
 http://redlabmcdn.s.llnwi.net/jp01/cs07/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="WOWOWプライム" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/8c2c34a19d37b5f95b3c5216f878fe93.png" group-title="BS放送",WOWOWプライム
+http://redlabmcdn.s.llnwi.net/jp01/wow2/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="WOWOWライブ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/1340c64cba09fb430d65e9adf20ea965.png" group-title="BS放送",WOWOWライブ
+http://redlabmcdn.s.llnwi.net/jp01/wow1/index.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="スターチャンネル１" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/b83f680e1ce06ab456beb47e4f32ba83.png" group-title="放送",スターチャンネル１
 http://redlabmcdn.s.llnwi.net/jp01/bs09/index.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="スターチャンネル２" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/1fcd59a9242e1290a6d6230bb4383479.png" group-title="放送",スターチャンネル２
