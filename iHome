@@ -84,7 +84,7 @@ http://hlstw.ihome.tokyo/live/cs21.stream/playlist.m3u8?wowzasessionid=token
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="テレ朝チャンネル2" tvg-logo="https://th.bing.com/th/id/OIP.tAuWO76sRK8kbPTotHm1ewHaHA?pid=Api&rs=1" group-title="CS放送",テレ朝チャンネル2
 http://hlstw.ihome.tokyo/live/cs22.stream/playlist.m3u8?wowzasessionid=token
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="BSスカパー" tvg-logo="http://www.bs-sptv.com/_common/img/logo/fb.png" group-title="BS放送",BSスカパー
-http://hlstw.ihome.tokyo/live/cs22.stream/playlist.m3u8?wowzasessionid=token
+http://hlstw.ihome.tokyo/live/bs17.stream/playlist.m3u8?wowzasessionid=token
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="History" tvg-logo="https://hachinohe-tv.jp/s3-img/television/ch-logo/cs-255.png" group-title="CS放送",History
 http://hlstw.ihome.tokyo/live/cs14.stream/playlist.m3u8?wowzasessionid=token
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="TBSニュース" tvg-logo="https://www.hikaritv-docomo.jp/sources/all/imgs/service/channel/img_channel_tbs_news.png" group-title="CS放送",TBSニュース
