@@ -161,3 +161,17 @@ https://www.news24.jp/livestream/index.m3u8
 http://193.42.99.130:23455/7160/playlist.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="ANIPLUS AISA" tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="CS放送",ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHK総合・東京" tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="NIGEHAJI",NHK総合・東京
+http://193.42.99.130:23455/NHKHD/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHKEテレ東京" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2b69210c4a3afaa51a0108af359383df.png" group-title="NIGEHAJI",NHKEテレ東京
+http://193.42.99.130:23455/NHKE/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="日テレ" tvg-logo="https://i.imgur.com/fxYf9G0.png" group-title="NIGEHAJI",日テレ
+http://193.42.99.130:23455/3810/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="テレビ朝日" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2299677752ed7d486c2538c3e7d6e6d7.png" group-title="NIGEHAJI",テレビ朝日
+http://193.42.99.130:23455/zhaori/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="TBS" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/aca89f64c5b07608f33f4a1aa78e487e.png" group-title="NIGEHAJI",TBS
+http://193.42.99.130:23455/TBS/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="TV Tokyo JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/815ae2a83110ea1341cf8691ad462ad6.png" group-title="NIGEHAJI",テレビ東京
+http://193.42.99.130:23455/TVTOKYO/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="フジテレビ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b105b34252fc5a532d36494ed88deb.png" group-title="NIGEHAJI",フジテレビ
+http://193.42.99.130:23455/3770/playlist.m3u8
